@@ -1,0 +1,15 @@
+com/an3ll/barcode/service/RetailerQueryService.class
+com/an3ll/barcode/model/Image.class
+com/an3ll/barcode/rest/RetailCommandRestController.class
+com/an3ll/barcode/servicebean/RetailerCommandServiceImpl.class
+com/an3ll/barcode/Application.class
+com/an3ll/barcode/model/command/CreateRetailerCommand.class
+com/an3ll/barcode/service/RetailerCommandService.class
+com/an3ll/barcode/model/RetailerContent.class
+com/an3ll/barcode/generator/QRGenerator.class
+com/an3ll/barcode/repository/RetailRepository.class
+com/an3ll/barcode/servicebean/RetailerQueryServiceImpl.class
+com/an3ll/barcode/model/Retailer.class
+com/an3ll/barcode/model/command/AddRetailerContentCommand.class
+com/an3ll/barcode/configuration/WebConfiguration.class
+com/an3ll/barcode/rest/RetailerQueryRestController.class

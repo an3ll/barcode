@@ -1,0 +1,13 @@
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/configuration/WebConfiguration.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/generator/QRGenerator.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/service/RetailerCommandService.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/model/command/CreateRetailerCommand.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/Application.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/model/Image.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/servicebean/RetailerCommandServiceImpl.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/servicebean/RetailerQueryServiceImpl.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/model/Retailer.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/rest/RetailCommandRestController.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/rest/RetailerQueryRestController.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/repository/RetailRepository.java
+/Users/joaane/R2M/Eget/barq-workspace/barcode-application/src/main/java/com/an3ll/barcode/service/RetailerQueryService.java
